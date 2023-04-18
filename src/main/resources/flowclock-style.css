@@ -1,0 +1,26 @@
+#background {
+    -fx-background-color: rgba(256, 256, 256, 0.0);
+}
+
+#colon {
+    -fx-padding: 0 0 20 0;
+}
+
+.clock {
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+    -fx-font-size: 196px;
+    -fx-text-alignment: center;
+    -fx-padding: 0 0 -10 0;
+    -fx-font-family: "Agency FB";
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 10, 0.5, 0.0, 0.0);
+}
+
+#date {
+    -fx-text-fill: #FFFFFF;
+    -fx-font-weight: bold;
+    -fx-font-size: 32px;
+    -fx-text-alignment: center;
+    -fx-font-family: "Agency FB";
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 10, 0.5, 0.0, 0.0);
+}
